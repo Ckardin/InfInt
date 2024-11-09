@@ -134,7 +134,7 @@ void testInfInteger()
     assert(InfInt(9).intSqrt() == 3);
 }
 
-int main(int argc, const char * argv[])
+int main(void)
 {
     //PROFINY_SCOPE
     //testInfInteger();
